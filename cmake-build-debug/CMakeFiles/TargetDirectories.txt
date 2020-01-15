@@ -1,0 +1,3 @@
+G:/mpu6050/cmake-build-debug/CMakeFiles/mpu6050.elf.dir
+G:/mpu6050/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/mpu6050/cmake-build-debug/CMakeFiles/rebuild_cache.dir
