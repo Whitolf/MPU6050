@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
+# 基于STM32CUBE的MPU6050驱动
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+MPU6050驱动，使用STM32CUBE和Clion开发
